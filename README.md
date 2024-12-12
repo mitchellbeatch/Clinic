@@ -6,6 +6,7 @@ and automatically assigned timestamps and codes in the Patient Record.
 Additionally, this program is password protected, with a remember password feature.
 
 Username: user
+
 Password: 123456
 
 note: there are other username and password combinations that work in the system, but the above is the simplest.
