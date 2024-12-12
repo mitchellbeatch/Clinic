@@ -1,0 +1,50 @@
+[
+  {
+    "phn": 12345678,
+    "name": "floyd mayweather",
+    "birth_date": "1980-10-15",
+    "phone": "778 967 0019",
+    "email": "floydmayweather@gmail.com",
+    "address": "1100 Pandora St, Victoria"
+  },
+  {
+    "phn": 12124444,
+    "name": "Arianna Jones",
+    "birth_date": "1901-09-01",
+    "phone": "245 571 3112",
+    "email": "arianna@hotmail.com",
+    "address": "1234 Beverly Hills"
+  },
+  {
+    "phn": 11112222,
+    "name": "Cristiano Ronaldo",
+    "birth_date": "1999-11-18",
+    "phone": "250 514 5555",
+    "email": "cristianor7@gmail.com",
+    "address": "999 Imma baller St"
+  },
+  {
+    "phn": 11111111,
+    "name": "jose rizal",
+    "birth_date": "1900-01-01",
+    "phone": "250 514 6512",
+    "email": "joserizal@gmail.com",
+    "address": "1111 Philippines St"
+  },
+  {
+    "phn": 2312312,
+    "name": "bombooo",
+    "birth_date": "1111-00-11",
+    "phone": "1231563221",
+    "email": "312sda@gmail.com",
+    "address": "21312 Dadwd st"
+  },
+  {
+    "phn": 1000,
+    "name": "michali maravelias",
+    "birth_date": "1899-07-23",
+    "phone": "778 966 3471",
+    "email": "michalim@gmail.com",
+    "address": "1900 Saanich Rd"
+  }
+]
