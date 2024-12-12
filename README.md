@@ -10,4 +10,5 @@ Username: user
 Password: 123456
 
 note: there are other username and password combinations that work in the system, but the above is the simplest.
+
 This is the culmination of my work in Software Development Methods (SENG265) at the University of Victoria.
